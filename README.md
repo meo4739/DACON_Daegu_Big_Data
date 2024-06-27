@@ -7,7 +7,7 @@
 **사용 기술**
 - Python (Pandas, Matplotlib, Seabon, WordCloud)
 - Jupyter Notebook
-- VS Code
+- Visual Studio Code
 
 **주요 결과**:
 - ㅇ
