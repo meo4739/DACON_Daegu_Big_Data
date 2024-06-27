@@ -6,5 +6,24 @@ DACON에서 진행한 『제 6회 대구 빅데이터 분석 경진대회』 소
 
 ## 데이터
 **데이터 출처** : DACON, 『제 6회 대구 빅데이터 분석 경진대회』
-- 데이콘 : https://www.dacon.io/competitions/official/236289/overview/description
-- 대구 빅데이터 활용센터 : https://dipbigdata.kr/pages/index.htm
+**데이콘** : https://www.dacon.io/competitions/official/236289/overview/description
+**대구 빅데이터 활용센터** : https://dipbigdata.kr/pages/index.htm
+
+
+# Daegu Big Data Analysis Contest - Consumer Section
+
+Welcome to the repository for our project on the **6th Daegu Big Data Analysis Contest - Consumer Section**. This project aims to identify solutions for local issues in Daegu through big data analysis and to discover innovative policy ideas from the public.
+
+## 🌟 Project Goal
+
+Our main goal is to address current issues in the Daegu region by analyzing big data and proposing insightful policy ideas that can be implemented by local authorities.
+
+## 📊 Data
+
+The data for this project is sourced from the following:
+
+- **DACON**: [6th Daegu Big Data Analysis Contest](https://www.dacon.io/competitions/official/236289/overview/description)
+- **Daegu Big Data Utilization Center**: [Daegu Big Data Utilization Center](https://dipbigdata.kr/pages/index.htm)
+
+## 📂 Directory Structure
+
