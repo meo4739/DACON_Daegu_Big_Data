@@ -13,8 +13,8 @@ DACON에서 진행한 『제 6회 대구 빅데이터 분석 경진대회』 소
 **주요 결과**:
  
 **데이터 출처**
-- **DACON**: https://www.dacon.io/competitions/official/236289/overview/description
-- **대구 빅데이터 활용센터**: https://dipbigdata.kr/pages/index.htm
+- DACON: https://www.dacon.io/competitions/official/236289/overview/description
+- 대구 빅데이터 활용센터: https://dipbigdata.kr/pages/index.htm
 
 ## 📂 Directory Structure
 
