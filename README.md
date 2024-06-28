@@ -28,5 +28,10 @@
 - 약 80%의 데이터가 200kcal 아래 구간에 위치
 - 데이터는 23.09.01~23.09.06까지의 데이터로 보다 다양한 날짜의 데이터 확보 필요
 
+**분석 과정**
+![image](https://github.com/meo4739/Mapo_Project_2/assets/80037229/fdb7d6d4-7f68-439a-950a-04c0bb08dbd0)
+![image](https://github.com/meo4739/Mapo_Project_2/assets/80037229/6e3da92e-8135-4c79-940a-dc6d6393c6d8)
+![image](https://github.com/meo4739/Mapo_Project_2/assets/80037229/b70adff5-b406-4a27-bf6b-1904f80a1368)
+![image](https://github.com/meo4739/Mapo_Project_2/assets/80037229/06489071-7d08-44dc-93b3-59253beff91d)
 
 
